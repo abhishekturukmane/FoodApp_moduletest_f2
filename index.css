@@ -1,0 +1,49 @@
+body{
+
+    background-color: brown;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    background: cadetblue;
+}
+p{
+    color: blanchedalmond;
+    text-align: left;
+}
+.para1{
+    
+    color: white;
+}
+#btn{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    outline: none;
+}
+.btn1{
+    color: white;
+    background: cadetblue;
+    border: 1px solid cadetblue;
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+}
+#f{
+    color: white;
+    background: darkcyan;
+    width: 29%;
+    text-align: center;
+    font-size: 17px;
+}
+/* #foodmenu h6{
+    font-size: 22px;
+    background-color: black;
+    margin-top: 16px;
+} */
+#df{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
